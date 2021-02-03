@@ -2,7 +2,7 @@
 
 Members: 
 
-Mary Therese Alegre
+ - Mary Therese Alegre
  - Hosea Barriga
  - Leah Bancale
  - Chester Zamora
