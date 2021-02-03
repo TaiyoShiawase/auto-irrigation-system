@@ -3,6 +3,6 @@
 Members: 
 
 Mary Therese Alegre
-Hosea Barriga
-Leah Bancale
-Chester Zamora
+ - Hosea Barriga
+ - Leah Bancale
+ - Chester Zamora
